@@ -1,0 +1,8 @@
+/* Header unico per tutte le pagine - versione 4 */
+.site-header .header-inner{width:min(1380px,calc(100% - 64px))!important;max-width:none!important;margin-left:auto!important;margin-right:auto!important;min-height:92px!important;padding:0!important;display:flex!important;align-items:center!important;gap:26px!important;box-sizing:border-box!important}
+.site-header .brand{position:static!important;display:flex!important;align-items:center!important;justify-content:flex-start!important;flex:0 0 210px!important;width:210px!important;min-width:210px!important;max-width:210px!important;margin:0!important;padding:0!important;transform:none!important}
+.site-header .brand img{display:block!important;width:210px!important;min-width:210px!important;max-width:210px!important;height:auto!important;max-height:none!important;object-fit:contain!important;margin:0!important;padding:0!important;transform:none!important}
+@media(max-width:1200px){.site-header .header-inner{gap:17px!important}}
+@media(max-width:1000px){.site-header .header-inner{min-height:80px!important}.site-header .brand{flex-basis:184px!important;width:184px!important;min-width:184px!important;max-width:184px!important}.site-header .brand img{width:184px!important;min-width:184px!important;max-width:184px!important}}
+@media(max-width:760px){.site-header .header-inner{width:calc(100% - 38px)!important}}
+@media(max-width:520px){.site-header .header-inner{min-height:76px!important}.site-header .brand{flex-basis:160px!important;width:160px!important;min-width:160px!important;max-width:160px!important}.site-header .brand img{width:160px!important;min-width:160px!important;max-width:160px!important}}

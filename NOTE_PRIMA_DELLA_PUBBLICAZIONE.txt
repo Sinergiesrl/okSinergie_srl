@@ -1,0 +1,1 @@
+Il modulo di richiesta è disattivato poiché il file send_booking.php non è presente. Realizzare e testare un backend sicuro prima della pubblicazione; completare informativa privacy, dati societari e condizioni contrattuali. Verificare le prestazioni riservate e i ruoli contrattuali di società e professionisti. Nessun testo garantisce assenza di responsabilità legali.

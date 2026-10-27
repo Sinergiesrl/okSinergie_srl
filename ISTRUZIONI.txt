@@ -1,0 +1,7 @@
+1. Apri chi-siamo.html per visualizzare la nuova pagina (logo e menu completi dopo il caricamento nel repository).
+2. Carica chi-siamo.html nella radice del repository GitHub, sostituendo il file esistente.
+3. Carica la cartella immagini/consulenti con tutte le 8 immagini nella stessa struttura.
+4. Il file richiama logo.jpg e stile-sinergie-esistenti.css già presenti nel repository.
+5. Le immagini di Viviana Dortenzio, Arturo Rinaldi e Antonio Maio sono provvisorie; sostituirle quando disponibili.
+6. Verificare qualifiche, biografie e consenso alla pubblicazione delle fotografie prima di mettere online.
+7. La pagina non è stata pubblicata sul sito: occorre caricarla su GitHub.

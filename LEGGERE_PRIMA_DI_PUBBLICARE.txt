@@ -1,0 +1,17 @@
+REVISIONE PRUDENZIALE - SINERGIE S.R.L. - 27/10/2026
+
+Modifiche effettuate:
+- Pagina contabilità e paghe riscritta come supporto amministrativo e organizzativo, eliminando promesse di elaborazione autonoma di cedolini, adempimenti contributivi e dichiarazioni fiscali.
+- Assistenza legale: precisato incarico diretto all’avvocato per prestazioni riservate, comprese consulenze legali quando applicabile.
+- Mediazione: chiarito che Sinergie non è presentata come organismo ministeriale e che le procedure si svolgono presso organismi iscritti.
+- Chi siamo: precisato il modello di incarico e la laurea in Economia senza attribuire abilitazioni non confermate.
+- Home: aggiornata la descrizione del servizio amministrativo.
+
+BLOCCHI PRIMA DELLA PUBBLICAZIONE:
+1. Validazione di un avvocato esperto di professioni regolamentate su servizi effettivi, contratti e fatturazione.
+2. Conferma delle attività realmente svolte dalla Dott.ssa Dortenzio e di eventuali iscrizioni/abilitazioni; non sono state verificate.
+3. Modulo richieste: verificare o implementare backend operativo su DominiOK; non considerarlo funzionante per il solo fatto che la pagina è presente.
+4. Informativa privacy: completare in base a hosting, posta, modulo e fornitori effettivi.
+5. Verificare resa grafica e collegamenti sul dominio finale.
+
+Questa revisione dei testi non costituisce certificazione legale né garanzia di assenza di sanzioni.

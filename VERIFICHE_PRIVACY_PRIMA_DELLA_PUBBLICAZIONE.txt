@@ -1,0 +1,13 @@
+SINERGIE S.R.L. - VERIFICHE VINCOLANTI PRIMA DELLA PUBBLICAZIONE
+
+Aggiornamento tecnico: rimossi i caricamenti remoti di Google Fonts dai file HTML; adottati caratteri di sistema. Nessuna dichiarazione di conformità totale è possibile senza test del sito pubblicato.
+
+1. Confermare formalmente il termine PROPOSTO di 12 mesi per richieste non seguite da incarico, stabilire quando la richiesta si considera chiusa e attuare cancellazione periodica anche nella posta. Se non approvato, modificare privacy.html prima della pubblicazione.
+2. Identificare il provider hosting, il dominio, il sistema email (Gmail/Google), gli eventuali fornitori del modulo e verificare ruoli privacy, contratti art. 28 ove applicabili, localizzazione, trasferimenti e garanzie. Completare la sezione trasferimenti sulla base di dati verificati.
+3. Eseguire una scansione cookie e traffico di rete sul dominio pubblicato (anche su mobile); verificare script, cookie, log e strumenti introdotti dall'hosting. Predisporre consenso preventivo se richiesto.
+4. Confermare sede legale, P.IVA, Registro Imprese, REA e capitale sociale attraverso visura aggiornata.
+5. Stabilire i ruoli dei professionisti esterni prima di comunicare dati personali; fornire informative ulteriori quando necessario.
+6. Attivare il sistema di invio modulo con HTTPS, protezione antispam, gestione errori e test. Attualmente il modulo NON invia messaggi.
+7. Verificare e approvare la versione finale dell'informativa con consulente privacy competente; aggiornare i contenuti in base ai trattamenti effettivi.
+
+Questa versione è una base tecnica ed editoriale migliorata, non una certificazione GDPR.
